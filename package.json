@@ -1,6 +1,6 @@
 {
     "name": "react-focus-within",
-    "version": "2.0.2",
+    "version": "2.0.3",
     "description": "A React-based \"polyfill\" for a focus-within-like experience.",
     "main": "lib/index",
     "types": "lib/index.d.ts",
@@ -35,10 +35,10 @@
         "babel-preset-stage-2": "^6.24.1"
     },
     "peerDependencies": {
-        "react": "^15.0.0 || ^16.0.0"
+        "react": "^15.0.0 || ^16.0.0 || ^17.0.0"
     },
     "dependencies": {
-        "@types/react": "^15.0.0 || ^16.0.0",
+        "@types/react": "^15.0.0 || ^16.0.0 || ^17.0.0",
         "prop-types": "^15.6.1"
     }
 }
